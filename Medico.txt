@@ -1,0 +1,8 @@
+Um sistema capaz de cadastrar médicos com CRM, Nome, Idade 
+e Salario. O médico pode ser aposentado, para isto, deveremos verificar no 
+geral, se ele tem mais de 55 anos. Deveremos verificar também o valor da 
+aposentadoria dele, que será normalmente 80% do valor do salário dele.
+Quando o médico é auxiliar ele só se aposentará com 60 anos. Diferente de se 
+o médico for cirurgião, que será com 50. Quando o médico é cirurgião também, 
+o valor da aposentadoria dele tem, além dos 80% do salário um acréscimo de 
+R$2.000,00
